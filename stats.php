@@ -17,3 +17,5 @@ die(json_encode(array(
     "licenses" => $numKeys,
     "activeUsers" => $numOnlineUsers
 )));
+
+// a
